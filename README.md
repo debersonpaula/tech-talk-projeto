@@ -2,6 +2,15 @@
 
 Repositorio para o projeto de exemplo Tech Talk
 
+## Instalação
+
+- DOCKER : https://www.docker.com/products/docker-desktop/
+- GIT : https://git-scm.com/downloads
+- NODEJS : https://nodejs.org/en (BAIXAR VERSÃO 18)
+- NESTJS : https://docs.nestjs.com/
+- VSCODE : https://code.visualstudio.com/download
+- DBEAVER : https://dbeaver.io/download/
+
 ## Tecnologias
 
 - REACT
